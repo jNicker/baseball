@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+player_one:
+  name: 'Player_One'
+  team: dodgers
+
+player_two:
+  name: 'Player_Two'
+  team: angels
+
+player_three:
+  name: 'Player_Three'
+  team: brewers

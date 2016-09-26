@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+run_one:
+  game: game_one
+  team: angels
+  player: player_two
+
+run_two:
+  game: game_one
+  team: angels
+  player: player_two
+
+run_three:
+  game: game_two
+  team: dodgers
+  player: player_one
+
+run_four:
+  game: game_two
+  team: brewers
+  player: player_three
+
+run_five:
+  game: game_three
+  team: dodgers
+  player: player_one
+
+run_six:
+  game: game_three
+  team: angels
+  player: player_two
+
+

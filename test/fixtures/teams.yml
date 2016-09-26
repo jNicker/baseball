@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+dodgers:
+  name: 'Dodgers'
+
+angels:
+  name: 'Angels'
+
+brewers:
+  name: 'Brewers'

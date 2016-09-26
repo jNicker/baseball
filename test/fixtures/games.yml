@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+game_one:
+  home_team: angels
+  away_team: brewers
+
+game_two:
+  home_team: brewers
+  away_team: dodgers
+
+game_three:
+  home_team: dodgers
+  away_team: angels
+
